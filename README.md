@@ -1,1 +1,3 @@
-# dc-ds-01-06-20
+# DC Data Science 010620
+
+Welcome to the class. We are SO EXCITED that you are here. -Andy, Murat, Jonnel, & JT

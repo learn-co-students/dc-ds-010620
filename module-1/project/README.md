@@ -19,7 +19,7 @@ Questions to consider:
 ## Data Sources
 Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
 
-All data lives in [`./data/`](./data):<br>
+All data lives in [`./data/`](./data) -- unzip everything with `gunzip *.gz`:<br>
 - Box Office Mojo
   - data
     - bom.movie_gross.csv.gz

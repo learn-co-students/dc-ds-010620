@@ -87,12 +87,12 @@ Be prepared to answer questions such as:
      - [ ] Clean and commented code so an independent party can replicate your analysis and justify your analytical choices
      - [ ] Code should follow Pep8 standards
      - [ ] Custom functions should be stored in .py file and imported whenever possible
-   - [ ] Your final joined and cleaned dataset that was used for analysis
-   - [ ] A narrative Jupyter notebook targeted to a non-technical audience that provides:
      - [ ] The purpose of your analysis and why it matters
      - [ ] 4 well annotated visualizations created using Matplotlib/Seaborn
      - [ ] 2 meaningful summary tables using Pandas
-     - [ ] At least four actionable insights (What type of films should they be looking to produce? What should the budget requirements be? Should they recruit certain actors for their films?)
+     - [ ] At least four actionable insights (What type of films should they be looking to produce? What should the budget 
+   - [ ] Your final joined and cleaned dataset that was used for analysis
+requirements be? Should they recruit certain actors for their films?)
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearing deck
      - [ ] Write an abbreviated high-level overview of methodology

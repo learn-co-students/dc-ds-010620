@@ -1,0 +1,1 @@
+set(itertools.permutations([7, 3, 0, 0]))
